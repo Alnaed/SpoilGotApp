@@ -9,9 +9,9 @@
         <version>2.2.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.alnaed</groupId>
+    <groupId>com.alexandre_courtes</groupId>
     <artifactId>spoilgot</artifactId>
-    <version>alnaed</version>
+    <version>alexandre_courtes</version>
     <packaging>war</packaging>
     <name>spoilgot</name>
     <description>Demo project for Spring Boot</description>
